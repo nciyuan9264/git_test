@@ -2,4 +2,3 @@
 'git first commit'
 'git test/git test commit'
 'git test/git test commit again'
-'test文件夹提交'
