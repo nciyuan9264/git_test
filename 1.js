@@ -2,5 +2,5 @@
 'git first commit'
 'git test/git test commit'
 'git test/git test commit again'
-'test文件夹提交1'
+'test文件夹提交'
 'test2文件夹提交'
